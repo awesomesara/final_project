@@ -11,7 +11,8 @@ you can change the contrast and brightness of photos, use different filters, cro
 # How to run game code?
 1. Download this code, or use git commands 'git clone ssh key'
 2. Аctivate virtual environment '. venv/bin/ctivte'
-3. Run init.py
+3. Download libraries
+4. Run init.py
 
 # How my app works?
 
